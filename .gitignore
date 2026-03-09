@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V7
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Obsidian
+.obsidian/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Node (just in case)
+node_modules/
+
+# Sisyphus working files (not for public)
+.sisyphus/
