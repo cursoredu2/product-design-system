@@ -149,6 +149,11 @@ AI 生成复盘文档 → 建议知识库条目
 
 ---
 
+由公众号「**懂点儿AI**」开发维护。如有问题或建议，欢迎关注公众号反馈。
+详细的制作过程见原文➡️：**https://mp.weixin.qq.com/s/TtDijDNzMDXCkLuEufVaww**
+
+![扫码_搜索联合传播样式-白色版](https://github.com/user-attachments/assets/edd176f5-1b35-452c-b895-9dab81f5a332)
+
 ## 许可证
 
 [MIT License](LICENSE) © 2026
